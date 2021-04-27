@@ -10,7 +10,7 @@ I believe as a researcher, we should not be limited by our coding capabilities. 
 
 ### I’m currently working on 🔭 ...
 A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. The project is done in association with Hungarian Academy of Sciences, Budapest, Hungary and supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
-In absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
+In the absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
 
 ### Some interesting implementations :mag:
 1. Robust line and plane fitting using RANSAC - traditional and optimised implementation (C++) : https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/RANSAC
