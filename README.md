@@ -8,6 +8,10 @@ My interests lie at the intersection of computer vision and machine learning. I 
 I love reading technical papers and try to implement and reproduce them as much as possible. Find implementations from some such papers in my 3D computer vision and sensor fusion repositories.\
 I believe as a researcher, we should not be limited by our coding capabilities. Hence, I try to practise as much coding as I can in my free time. Although I like C and C++ more, I have been pushing myself out of my comfort zone to get more familiar with Python. General C++ and data structure algorithms and PyTorch tutoral and implementations can be found in my repositories 
 
+### I’m currently working on 🔭 ...
+A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. The project is done in association with Hungarian Academy of Sciences, Budapest, Hungary and supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
+In absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
+
 ### Some interesting implementations :mag:
 1. Robust line and plane fitting using RANSAC - traditional and optimised implementation (C++) : https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/RANSAC
 2. Image rectification and mosaiking using homography (C++): https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/HomographyEstimation
@@ -24,8 +28,6 @@ I believe as a researcher, we should not be limited by our coding capabilities. 
 13. OpenCV KLT Tracker and Dense Optical Flow (C++): https://github.com/AnupamaRajkumar/ImageAndVideoAnalysis/tree/master/MotionTracking_DenseOpticalFlow
 14. Autoencoder for extracting features from SAR : https://github.com/AnupamaRajkumar/ProcessChainForPolSARFeature/tree/master/Modern_Features
 
-### I’m currently working on 🔭 ...
-A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. In absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
 
 ### Other Interests ⚡ : 
 1. I enjoy writing and maintain a medium blog where I keep posting from time to time although I would like to be more regular : https://anupamarajkumar.medium.com/ :black_nib:
