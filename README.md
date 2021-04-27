@@ -14,7 +14,7 @@ In the absence of a high resolution dataset catering to landfills, I have been w
 
 ### Some interesting implementations :mag:
 1. Robust line and plane fitting using RANSAC - traditional and optimised implementation (C++) : https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/RANSAC
-2. Image rectification and mosaiking using homography (C++): https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/HomographyEstimation
+2. Image rectification and planar panoramic mosaicing using homography (C++): https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/HomographyEstimation
 3. Structure from Motion (SfM) (C++) : https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/StructureFromMotion
 4. Point registration algorithms-ICP and TrICP (C++): https://github.com/AnupamaRajkumar/Sensor-Fusion/tree/master/PointRegistration
 5. Stereo matching techniques using naive and dynamic programmig (C++) : https://github.com/AnupamaRajkumar/Sensor-Fusion/tree/master/StereoMatching
