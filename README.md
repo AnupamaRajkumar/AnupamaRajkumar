@@ -9,7 +9,7 @@ I love reading technical papers and try to implement and reproduce them as much 
 I believe as a researcher, we should not be limited by our coding capabilities. Hence, I try to practise as much coding as I can in my free time. Although I like C and C++ more, I have been pushing myself out of my comfort zone to get more familiar with Python. General C++ and data structure algorithms and PyTorch tutoral and implementations can be found in my repositories 
 
 ### I’m currently working on 🔭 ...
-A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. The project is done in association with Hungarian Academy of Sciences, Budapest, Hungary and supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
+A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. I am working on the project in association with the Hungarian Academy of Sciences, Budapest, Hungary and it is being supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
 In the absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
 
 ### Some interesting implementations :mag:
