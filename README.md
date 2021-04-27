@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋! 
-I am Anupama and welcome to my GitHub page. I am from India and currently, I am an MSc. graduate from Technische Universitaet, Berlin and ELTE, Budapest and I specialise in Autonomous Systems.
+I am Anupama and welcome to my GitHub page. I am from India and currently, I am an MSc. graduate from Technische Universitaet, Berlin and ELTE, Budapest. I specialise in Autonomous Systems.
 
 ### I’m currently learning 🌱 
 My interests lie at the intersection of computer vision and machine learning. I am keen on topics that involve making sense of the scenes coming from different types of sensors. I have as much interest in traditional image processing and computer vision as in deep learning. I always marvel at how deep learning is capable of making sense from images but I also believe that, garbage in is garbage out and that's why I love pre-processing the images using traditional methods and algorithms.\
