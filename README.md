@@ -11,6 +11,7 @@ I believe as a researcher, we should not be limited by our coding capabilities. 
 ### I’m currently working on 🔭 ...
 A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. I am working on the project in association with the Hungarian Academy of Sciences, Budapest, Hungary and it is being supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
 In the absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
+The information on the dataset, the implementation and results along with report is placed at : https://github.com/AnupamaRajkumar/LandfillDetection_SemanticSegmentation
 
 ### Some interesting implementations :mag:
 1. Robust line and plane fitting using RANSAC - traditional and optimised implementation (C++) : https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/RANSAC
@@ -27,6 +28,7 @@ In the absence of a high resolution dataset catering to landfills, I have been w
 12. Hough Transform for circles (C++): https://github.com/AnupamaRajkumar/ImageAndVideoAnalysis/tree/master/HoughTransform_Circles
 13. OpenCV KLT Tracker and Dense Optical Flow (C++): https://github.com/AnupamaRajkumar/ImageAndVideoAnalysis/tree/master/MotionTracking_DenseOpticalFlow
 14. Autoencoder for extracting features from SAR : https://github.com/AnupamaRajkumar/ProcessChainForPolSARFeature/tree/master/Modern_Features
+15. Automatic detection of Landfill using Deep Learning : https://github.com/AnupamaRajkumar/LandfillDetection_SemanticSegmentation
 
 
 ### Other Interests ⚡ : 
