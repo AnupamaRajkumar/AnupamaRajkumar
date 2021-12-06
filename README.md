@@ -11,8 +11,8 @@ I believe as a researcher, we should not be limited by our coding capabilities. 
 ### Interesting Project I have worked on
 A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. I am working on the project in association with the Hungarian Academy of Sciences, Budapest, Hungary and it is being supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
 In the absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
-The information on the dataset, the implementation and results along with report is placed at : https://github.com/AnupamaRajkumar/LandfillDetection_SemanticSegmentation
-The details about the specification of the dataset and how to request the dataset can be found here : https://towardsdatascience.com/introducing-a-very-high-resolution-dataset-of-landfills-and-waste-dumps-196d46d533fc
+The information on the dataset, the implementation and results along with report is placed at : https://github.com/AnupamaRajkumar/LandfillDetection_SemanticSegmentation \
+The details about the specification of the dataset and how to request the dataset can be found here : https://towardsdatascience.com/introducing-a-very-high-resolution-dataset-of-landfills-and-waste-dumps-196d46d533fc \
 ESA Interview : https://earth.esa.int/eogateway/news/meet-a-young-researcher-who-combines-remote-sensing-with-deep-learning-techniques
 
 I am planning to extend this project to include more advanced and varied deep learning architectures and studying their performance.
