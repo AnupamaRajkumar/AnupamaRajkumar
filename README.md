@@ -8,10 +8,17 @@ My interests lie at the intersection of computer vision and machine learning. I 
 I love reading technical papers and try to implement and reproduce them as much as possible. Find implementations from some such papers in my 3D computer vision and sensor fusion repositories.\
 I believe as a researcher, we should not be limited by our coding capabilities. Hence, I try to practise as much coding as I can in my free time. Although I like C and C++ more, I have been pushing myself out of my comfort zone to get more familiar with Python. General C++ and data structure algorithms and PyTorch tutorial and implementations can be found in my repositories 
 
-### I’m currently working on 🔭 ...
+### Interesting Project I have worked on
 A very interesting research topic that resonates with me, I am working on performing semantic segmentation on high-resolution satellite images to detect waste landfills. I am working on the project in association with the Hungarian Academy of Sciences, Budapest, Hungary and it is being supervised by Dr. Tamas Sziranyi and Dr. Andras Majdik.\
 In the absence of a high resolution dataset catering to landfills, I have been working on creating and annotating my own dataset. Currently I am in the process of training various machine learning models and once benchmarked, I would be happy to make the dataset available for further use and development!
 The information on the dataset, the implementation and results along with report is placed at : https://github.com/AnupamaRajkumar/LandfillDetection_SemanticSegmentation
+The details about the specification of the dataset and how to request the dataset can be found here : https://towardsdatascience.com/introducing-a-very-high-resolution-dataset-of-landfills-and-waste-dumps-196d46d533fc
+ESA Interview : https://earth.esa.int/eogateway/news/meet-a-young-researcher-who-combines-remote-sensing-with-deep-learning-techniques
+
+I am planning to extend this project to include more advanced and varied deep learning architectures and studying their performance.
+
+### I’m currently working on 🔭 ...
+I am employed as a Sensor Fusion Engineer with Continental Automotive in Budapest. I work on developing sensor fusion algorithms to detect static objects in the driving environment.
 
 ### Some interesting implementations :mag:
 1. Robust line and plane fitting using RANSAC - traditional and optimised implementation (C++) : https://github.com/AnupamaRajkumar/3D-Computer-Vision/tree/master/RANSAC
